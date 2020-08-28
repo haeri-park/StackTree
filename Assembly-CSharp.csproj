@@ -36,8 +36,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\02.Scripts\MainMenuScene.cs" />
-     <Compile Include="Assets\02.Scripts\SceneChange.cs" />
+     <Compile Include="Assets\02.Scripts\HR\MainMenuScene.cs" />
+     <Compile Include="Assets\02.Scripts\HR\SceneChange.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
