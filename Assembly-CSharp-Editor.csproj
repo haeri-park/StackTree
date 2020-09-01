@@ -696,6 +696,41 @@
       <Name>UnityEditor.UI</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
+    <ProjectReference Include="Unity.XR.Management.csproj">
+      <Project>{c061e366-784f-cc78-baaa-99ef64537b45}</Project>
+      <Name>Unity.XR.Management</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Subsystem.Registration.csproj">
+      <Project>{965bd6a5-9ad5-4402-c0a8-111efcf5a5ac}</Project>
+      <Name>Unity.Subsystem.Registration</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.XR.LegacyInputHelpers.csproj">
+      <Project>{fae4c7c7-c305-9d1b-3465-13ee3b679e16}</Project>
+      <Name>UnityEngine.XR.LegacyInputHelpers</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Management.Editor.csproj">
+      <Project>{52738eda-6924-cb08-62ac-3a3d9bea6f0c}</Project>
+      <Name>Unity.XR.Management.Editor</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.SpatialTracking.csproj">
+      <Project>{1e01dae8-0ed8-925d-a7ad-cbe07cf0bca8}</Project>
+      <Name>UnityEditor.SpatialTracking</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.SpatialTracking.csproj">
+      <Project>{e7b762f2-264d-b86d-0ca4-4308548f1389}</Project>
+      <Name>UnityEngine.SpatialTracking</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.XR.LegacyInputHelpers.csproj">
+      <Project>{ad23f54a-d7b9-6229-0962-30f50dd204ab}</Project>
+      <Name>UnityEditor.XR.LegacyInputHelpers</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
