@@ -416,6 +416,7 @@ MonoBehaviour:
   popUpOption: {fileID: 0}
   PopupRoomMaker: {fileID: 0}
   PopupGameOption: {fileID: 0}
+  BlackBG: {fileID: 0}
 --- !u!224 &324843684
 RectTransform:
   m_ObjectHideFlags: 0
@@ -784,7 +785,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 540, y: 1511}
+  m_AnchoredPosition: {x: 730, y: 2000}
   m_SizeDelta: {x: 800, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &898846166
